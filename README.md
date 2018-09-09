@@ -1,5 +1,5 @@
 # Thymeleaf + Spring-Boot
-======
+
 ### Tiny test application for static data:
 
 I developed this little application as a way of testing how to display data statically from either a List or ArrayList. This first seemed easy, but proved
